@@ -1,0 +1,19 @@
+
+# Trying out a self-ml parser... :3
+
+(matrix (row 1 2 3)
+        (row 4 5 6)
+        (row 7 8 9))
+
+(users
+  (user (nick FireFly)
+        (user firefly)
+        (real-name [Jonas]))
+  (user (nick Bluh)
+        (user Blah)
+        (real-name [Hello world])))
+
+{# block-level comments are also sexy,
+   even with {# nested inner-comments #} ... #}
+
+(really (tricky{# comment #}case))
