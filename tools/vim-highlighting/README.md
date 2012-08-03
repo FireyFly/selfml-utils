@@ -18,4 +18,4 @@ Should you want vim to automagically use this syntax file for files ending with
 Of course, the actual look & choice of colours depends on your vim
 configuration.
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/FireyFly/selfml-utils/raw/master/tools/vim-highlighting/screenshot.png)
